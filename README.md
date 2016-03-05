@@ -2,4 +2,4 @@
 
 A Flapee Bird Clone
 
-Play at: https://jessewang-scripted.github.io/flapeebee/
+Play at: https://jwang1919.github.io/flapeebee/
